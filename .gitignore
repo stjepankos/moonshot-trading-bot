@@ -1,0 +1,9 @@
+.venv/
+
+.env
+
+logs.json
+testnet_coins_bought.json
+coins_bought.json
+
+__pycache__/
